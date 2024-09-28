@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA2E59F-BD18-40D3-8B1E-7444487C9516}|EmployeeDetails.EF\\EmployeeDetails.EF.csproj|C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\employeedetails.ef\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2EA2E59F-BD18-40D3-8B1E-7444487C9516}|EmployeeDetails.EF\\EmployeeDetails.EF.csproj|solutionrelative:employeedetails.ef\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA2E59F-BD18-40D3-8B1E-7444487C9516}|EmployeeDetails.EF\\EmployeeDetails.EF.csproj|c:\\users\\rajna\\source\\repos\\employeedetails.ef\\employeedetails.ef\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA2E59F-BD18-40D3-8B1E-7444487C9516}|EmployeeDetails.EF\\EmployeeDetails.EF.csproj|solutionrelative:employeedetails.ef\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA2E59F-BD18-40D3-8B1E-7444487C9516}|EmployeeDetails.EF\\EmployeeDetails.EF.csproj|C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\employeedetails.ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA2E59F-BD18-40D3-8B1E-7444487C9516}|EmployeeDetails.EF\\EmployeeDetails.EF.csproj|solutionrelative:employeedetails.ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA2E59F-BD18-40D3-8B1E-7444487C9516}|EmployeeDetails.EF\\EmployeeDetails.EF.csproj|C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\employeedetails.ef\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA2E59F-BD18-40D3-8B1E-7444487C9516}|EmployeeDetails.EF\\EmployeeDetails.EF.csproj|solutionrelative:employeedetails.ef\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA2E59F-BD18-40D3-8B1E-7444487C9516}|EmployeeDetails.EF\\EmployeeDetails.EF.csproj|C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\employeedetails.ef\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA2E59F-BD18-40D3-8B1E-7444487C9516}|EmployeeDetails.EF\\EmployeeDetails.EF.csproj|solutionrelative:employeedetails.ef\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\EmployeeDetails.EF\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails.EF\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\EmployeeDetails.EF\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeDetails.EF\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:32:49.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\EmployeeDetails.EF\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails.EF\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\EmployeeDetails.EF\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeDetails.EF\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:20:46.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\EmployeeDetails.EF\\Models\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails.EF\\Models\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\EmployeeDetails.EF\\Models\\EmployeeContext.cs",
+              "RelativeToolTip": "EmployeeDetails.EF\\Models\\EmployeeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:19:59.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\EmployeeDetails.EF\\App.config",
+              "RelativeDocumentMoniker": "EmployeeDetails.EF\\App.config",
+              "ToolTip": "C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\EmployeeDetails.EF\\App.config",
+              "RelativeToolTip": "EmployeeDetails.EF\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-22T08:04:52.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\EmployeeDetails.EF\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeDetails.EF\\Program.cs",
+              "ToolTip": "C:\\Users\\rajna\\source\\repos\\EmployeeDetails.EF\\EmployeeDetails.EF\\Program.cs",
+              "RelativeToolTip": "EmployeeDetails.EF\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA6wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T18:05:44.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
